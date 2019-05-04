@@ -1,0 +1,18 @@
+C:\Users\falak\Documents\Visual Studio 2013\Projects\Asp.netcrud\Asp.netcrud\bin\Asp.netcrud.dll.config
+C:\Users\falak\Documents\Visual Studio 2013\Projects\Asp.netcrud\Asp.netcrud\bin\Asp.netcrud.dll
+C:\Users\falak\Documents\Visual Studio 2013\Projects\Asp.netcrud\Asp.netcrud\bin\Asp.netcrud.pdb
+C:\Users\falak\Documents\Visual Studio 2013\Projects\Asp.netcrud\Asp.netcrud\obj\Debug\Asp.netcrud.csprojResolveAssemblyReference.cache
+C:\Users\falak\Documents\Visual Studio 2013\Projects\Asp.netcrud\Asp.netcrud\obj\Debug\Asp.netcrud.dll
+C:\Users\falak\Documents\Visual Studio 2013\Projects\Asp.netcrud\Asp.netcrud\obj\Debug\Asp.netcrud.pdb
+C:\Users\falak\Documents\Visual Studio 2013\Projects\ASP\Lecture12\Asp.netcrud\Asp.netcrud\bin\Asp.netcrud.dll.config
+C:\Users\falak\Documents\Visual Studio 2013\Projects\ASP\Lecture12\Asp.netcrud\Asp.netcrud\bin\Asp.netcrud.dll
+C:\Users\falak\Documents\Visual Studio 2013\Projects\ASP\Lecture12\Asp.netcrud\Asp.netcrud\bin\Asp.netcrud.pdb
+C:\Users\falak\Documents\Visual Studio 2013\Projects\ASP\Lecture12\Asp.netcrud\Asp.netcrud\obj\Debug\Asp.netcrud.csprojResolveAssemblyReference.cache
+C:\Users\falak\Documents\Visual Studio 2013\Projects\ASP\Lecture12\Asp.netcrud\Asp.netcrud\obj\Debug\Asp.netcrud.dll
+C:\Users\falak\Documents\Visual Studio 2013\Projects\ASP\Lecture12\Asp.netcrud\Asp.netcrud\obj\Debug\Asp.netcrud.pdb
+\\server\Faculty\Falak\my folder\lectures\ADSE-II\ASP\Lecture12\Asp.netcrud\Asp.netcrud\bin\Asp.netcrud.dll.config
+\\server\Faculty\Falak\my folder\lectures\ADSE-II\ASP\Lecture12\Asp.netcrud\Asp.netcrud\bin\Asp.netcrud.dll
+\\server\Faculty\Falak\my folder\lectures\ADSE-II\ASP\Lecture12\Asp.netcrud\Asp.netcrud\bin\Asp.netcrud.pdb
+\\server\Faculty\Falak\my folder\lectures\ADSE-II\ASP\Lecture12\Asp.netcrud\Asp.netcrud\obj\Debug\Asp.netcrud.csprojResolveAssemblyReference.cache
+\\server\Faculty\Falak\my folder\lectures\ADSE-II\ASP\Lecture12\Asp.netcrud\Asp.netcrud\obj\Debug\Asp.netcrud.dll
+\\server\Faculty\Falak\my folder\lectures\ADSE-II\ASP\Lecture12\Asp.netcrud\Asp.netcrud\obj\Debug\Asp.netcrud.pdb
